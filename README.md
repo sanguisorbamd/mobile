@@ -1,3 +1,3 @@
 # Тестирование мобильных приложений
 
-[Чек-лист](https://docs.google.com/spreadsheets/d/1Ael4s9AklERzEfBb3fzrgfN6Vv7rhW36PHtl7CFH4D8/edit?gid=0#gid=0)
+[Чек-лист](https://docs.google.com/spreadsheets/d/1lwtp1gVSV1g00gM1HWUGDYw0ffVxtfE5_DvEOuAwKTw/edit?gid=0#gid=0)
