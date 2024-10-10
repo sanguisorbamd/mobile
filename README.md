@@ -8,3 +8,4 @@
 
 [Отчёты о дефектах](https://github.com/user-attachments/files/17323442/3.xlsx)
 
+[Отчет о результатах тестирования](https://github.com/user-attachments/files/17326287/default.docx)
