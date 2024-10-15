@@ -9,3 +9,5 @@
 [Отчёты о дефектах](https://github.com/user-attachments/files/17323442/3.xlsx)
 
 [Отчет о результатах тестирования](https://github.com/user-attachments/files/17326287/default.docx)
+
+Charles Proxy: [При переходе на сайт пользователь видит картинку](https://drive.google.com/file/d/1M-TM3PGXlUkWbQk2zPoylykzlfZKwOFe/view?usp=drive_link)
